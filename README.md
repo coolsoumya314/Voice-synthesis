@@ -1,5 +1,5 @@
 <p align="center">
-	<h2 align="center"> Voice Cloning and Text to Speech Synthesis</h2>
+	<h2 align="center"> Voice Cloning and Text to Speech Synthesis- Very good project</h2> 
 	<h4 align="center"> A Standalone service for cloning your own voice and synthesize any text in English in your own voice.<h4>
 </p>
 <br>
